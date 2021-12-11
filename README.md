@@ -32,29 +32,24 @@ bb = lambda x, y: math.sqrt(x ** 2 + y ** 2)
 cc = lambda *args: sum(args) / len(args)
 dd = lambda s: "".join(set(s))
 ```
-
-# Penjelasan
--Untuk memperluas daftar fungsi matematika gunakan import math
--Fungsi lambda yang menggunakan variabel a-d
-
 ```python
-def a(x):
-    return x**2
-    a = lambda x : x ** 2
-print(a(2))
-
-def b(x, y):
-    return math.sqrt(x**2 + y**2)
-    b = lambda x, y : x ** 2  + y ** 2
-print(b(2, 2))
-
-def c(*args):
-    return sum(args)/len(args)
-    c = lambda *args : sum(args)/len(args)
-print(c(5, -1, 8, 19))
-
-def d(s):
-    return "".join(set(s))
-    d = lambda s: "".join(set(s))
-print(d("Jenab"))
+print("Latihan a")
+print("=========")
+print("Fungsi\t = ", (a(4)))
+print("Lambda\t = ", (aa(4)))
+print()
+print("Latihan b")
+print("=========")
+print("Fungsi\t = ", (b(4, 7)))
+print("Lambda\t = ", (bb(4, 7)))
+print()
+print("Latihan c")
+print("=========")
+print("Fungsi\t = ", (c(10)))
+print("Lambda\t = ", (cc(10)))
+print()
+print("Latihan d")
+print("=========")
+print("Fungsi\t = ", (d("abcde")))
+print("Lambda\t = ", (dd("abcde")))
 ```
