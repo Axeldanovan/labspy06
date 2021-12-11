@@ -61,7 +61,9 @@ Tugas Praktikum
 # membuat program sederhana data mahasiswa menggunakan fungsi, untuk menambah, menampilkan, menghapus, dan mengubah pada program tersebut 
 # Berikut untuk flowchartnya
 ![flowchart06](https://user-images.githubusercontent.com/81457697/145693871-c2c15852-efed-4f1c-a927-91a715c1c8f1.png)
+
 ![flowchart06_01](https://user-images.githubusercontent.com/81457697/145693875-fb662143-5793-4bf4-9fe0-ad5cddd1fc03.png)
+
 ![flowchart06_02](https://user-images.githubusercontent.com/81457697/145693883-c18a10dd-c116-4b7f-9ccd-c8cbbb0656c6.png)
 
 
