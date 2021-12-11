@@ -53,3 +53,4 @@ print("=========")
 print("Fungsi\t = ", (d("abcde")))
 print("Lambda\t = ", (dd("abcde")))
 ```
+![Screenshot_6](https://user-images.githubusercontent.com/81457697/145677304-81ea3805-668f-40fc-9e93-1c722c64a941.png)
