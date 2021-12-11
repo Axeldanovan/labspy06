@@ -165,7 +165,9 @@ while True:
 ```        
 # Penjelasan :
 -data = {}, disini saya akan menggunakan dictionary untuk menampung data mahasiswa
+
 -Untuk menambah data, menampilkan, mengubah dan menghapus data, sama source codenya seperti source code di tugas 5 hanya saja di masukkan ke dalam fungsi dan saya sedikit merubah tampilannya
+
 -Setelah semua di masukan ke dalam fungsi, maka baru buat perulangan dengan while true dan masukkan fungsi - fungsi ke dalamnya seperti berikut
 ```python
 while True:
