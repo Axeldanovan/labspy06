@@ -191,3 +191,19 @@ while True:
         print("== Pilihlah Menu Yang Tersedia ==")
         print("==================================")
  ```
+ # output nya
+  -Tanpa data atau belum ada data yang di inputkan
+  ![Screenshot_8](https://user-images.githubusercontent.com/81457697/145678140-75f71d8a-540e-4160-8dfb-1b4d0b5172b5.png)
+-Dengan ada data
+![Screenshot_9](https://user-images.githubusercontent.com/81457697/145678195-f8fd200b-4eeb-40c7-90a6-265fd674a1fd.png)
+-Menu Tambah
+![Screenshot_10](https://user-images.githubusercontent.com/81457697/145678226-a1626368-2a75-4c9d-9572-d126a3e2d268.png)
+-Menu Ubah
+![Screenshot_11](https://user-images.githubusercontent.com/81457697/145678376-543af77c-8d2f-464a-aab4-db0f9f64807c.png)
+-Setelah mengubah data, lalu melihat data yang diubah
+![Screenshot_12](https://user-images.githubusercontent.com/81457697/145678400-f5251c72-0031-433e-8490-782210e71a39.png)
+-Menu Hapus
+![Screenshot_13](https://user-images.githubusercontent.com/81457697/145678428-57d0abdc-f53e-4bf1-bc64-b95cf26bbfe0.png)
+-Menu Keluar
+![Screenshot_14](https://user-images.githubusercontent.com/81457697/145678452-bee5b1e7-28fa-4355-a44d-9e39cc801d27.png)
+
