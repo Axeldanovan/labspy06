@@ -54,7 +54,7 @@ print("Fungsi\t = ", (d("abcde")))
 print("Lambda\t = ", (dd("abcde")))
 ```
 
-Tugas Praktikum 
+output
 ![Screenshot_6](https://user-images.githubusercontent.com/81457697/145677869-7106979e-fabd-4f34-b9b0-676bebcdbe5a.png)
 
 # membuat program sederhana data mahasiswa menggunakan fungsi, untuk menambah, menampilkan, menghapus, dan mengubah pada program tersebut 
