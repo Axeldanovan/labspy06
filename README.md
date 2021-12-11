@@ -66,7 +66,7 @@ output
 ![flowchart06_02](https://user-images.githubusercontent.com/81457697/145693883-c18a10dd-c116-4b7f-9ccd-c8cbbb0656c6.png)
 
 
-# disini untuk menambah, menampilkan, merubah dan menghapus menggunakan fungsi yaitu def. Fungsi def di state di awal atau di deklarasikan di awal setelah dictionary sebelum While True, baru di gunakan di bawahnya seperti source code berikut
+# disini untuk menambah, menampilkan, merubah dan menghapus menggunakan fungsi yaitu def. Fungsi def di state di awal atau di deklarasikan di awal setelah dictionary sebelum While True, baru di gunakan di bawahnya seperti berikut
 
 data = {}
 
